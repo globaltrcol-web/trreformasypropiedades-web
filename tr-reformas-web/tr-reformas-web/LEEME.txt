@@ -1,4 +1,0 @@
-1) Pon tus fotos en /images: hero.jpg (portada), equipo.jpg, y las de cada proyecto (mismos nombres que en data/proyectos.json).
-2) Edita data/proyectos.json para agregar proyectos (titulo, categoria, precio, detalle, imagen).
-3) Reemplaza TUNUMERO (WhatsApp), tucorreo@dominio.com y TU_ID_FORMSPREE (crea el formulario gratis en formspree.io).
-4) Sube todo a GitHub y conecta con Cloudflare Pages.
